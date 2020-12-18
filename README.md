@@ -66,6 +66,7 @@
     - [Trusted torrent tracker list](https://github.com/CaptainChicky/trackerslist)
     - [MacOS setup for VirtualBox](https://github.com/CaptainChicky/macos-virtualbox)
     - [Keyboard repurposer](https://github.com/CaptainChicky/sharpkeys)
+    - [Windows power tools](https://github.com/CaptainChicky/PowerToys)
     
 4) My other projects:
   - [Temporary note-taking app](https://github.com/CaptainChicky/Temporary-Note-taking-App)
