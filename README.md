@@ -31,6 +31,7 @@
 
 # Full overview as of 12/17/2020
 [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(under construction).
+[Here](https://github.com/CaptainChicky/aops.com-related-code) is a collection of aops.com stuff(unpolished).
 1) Malware and jokeware:
 - Self-created:
   - [PC Optimizer Pro](https://github.com/CaptainChicky/Trojan.BAT.PC-Optimizer-Pro)
