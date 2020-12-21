@@ -1,4 +1,4 @@
-![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) people have visited my profile so far.
+There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits to my profile so far.
 
 <details>
   <summary>my stats!</summary>
