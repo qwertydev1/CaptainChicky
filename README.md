@@ -5,7 +5,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 - 🐦 I am also science/bird enthusiast, an avid 🎹pianst/violinist🎻, and a hobby writer 📝.
 - 😄 Pronouns: He/him.
 - 💼 I created small scripts like the [Hash retriever](https://github.com/CaptainChicky/Hash-Retriever) and potpourris of tools along with other useful things, as seen in my repository "[Activating Microsoft Products for testing](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)"! 
-- ⚡ Fun fact: China currently just took a large rock from the moon. Very intriguing.
+- ⚡ Fun fact: China currently, as of 12/20/2020 just took a large rock from the moon. Very intriguing.
 
 #### Stats and others 🤗!
 <details>
