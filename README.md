@@ -136,7 +136,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 - Forked(will likely not update from the date they are forked):
 Did you even read the name 😂. Why would I fork something I didn't make and add it here as "my own project"? 😅
   
-6) Regarding .io games :D:
+6) Regarding .io games 😀:
 - Self-created:
 Haha. Hahahahahahahaha. I really do wish someday to make my own .io game. I really do.
 - Forked(will likely not update from the date they are forked):
