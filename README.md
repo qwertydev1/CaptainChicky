@@ -1,11 +1,12 @@
 There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits to my profile so far.
 
-# under construction
+### Hi there! It's me, Chicky 😋!
+- 🛠 I am an ameatur coder. I dabble with Batch, VBScript and PowerShell, along with JavaScript and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
+- 🐦 I am also science/bird enthusiast, an avid 🎹pianst/violinist🎻, and a hobby writer 📝.
+- 😄 Pronouns: He/him.
+- 💼 I created small scripts like the [Hash retriever](https://github.com/CaptainChicky/Hash-Retriever) and potpourris of tools along with other useful things, as seen in my repository "[Activating Microsoft Products for testing](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)"! 
 
-[Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(under construction).
-
-[Here](https://github.com/CaptainChicky/CaptainChicky) is the repository you are reading from 😆.
-
+#### Stats and others 🤗!
 <details>
   <summary>Here are my GitHub stats!</summary>
   
@@ -14,14 +15,22 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 </details>
 
 <details>
-  <summary>Some of my cool repos!</summary>
+  <summary>Some of my "cooler" repos(that I put effort into creating the code)!</summary>
   
-  [![Hash Finder](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Hash-Retriever&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Hash-Retriever)
-  [![VBS Notifications Joke](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=VBScript-Notifications-Joke&theme=dark&show_icons=true)](https://github.com/CaptainChicky/VBScript-Notifications-Joke)
+  [![Hash Finder](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Hash-Retriever&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Hash-Retriever).
+  [![VBS Notifications Joke](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=VBScript-Notifications-Joke&theme=dark&show_icons=true)](https://github.com/CaptainChicky/VBScript-Notifications-Joke).
+  [![Temporary note-taking app](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Temporary-Note-taking-App&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Temporary-Note-taking-App).
+  [![Remove the Adobe Genuine client](https://github-readme-stats.vercel.app/api/pin/?username=CaptainChicky&repo=Remove-Adobe-Genuine-Client&theme=dark&show_icons=true)](https://github.com/CaptainChicky/Remove-Adobe-Genuine-Client).
 </details>
 
+
+### Special Repositories 😎
+- [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(currently under construction).
+- [Here](https://github.com/CaptainChicky/CaptainChicky) is the repository you are reading from 😆.
+
+### Complete Overview 🥱...
 <details>
-  <summary>What I suggest you visit :)</summary>
+  <summary>What I suggest you visit 😀</summary>
   
 (Bolded are the "must-visits")
 
@@ -99,7 +108,7 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 - Self-created:
     - [Setting the PowerShell Execution level](https://github.com/CaptainChicky/Setting-PowerShell-Execution-Level)
     - [Hash retriever](https://github.com/CaptainChicky/Hash-Retriever)
-    - [A collection regarding aops.com(unpolished)](https://github.com/CaptainChicky/aops.com-related-code)
+    - [A collection regarding aops.com(unpolished, will fix later)](https://github.com/CaptainChicky/aops.com-related-code)
 - Forked(will likely not update from the date they are forked):
     - [KMS emulator](https://github.com/CaptainChicky/py-kms)
     - [Duplicate File Eraser](https://github.com/CaptainChicky/Duplicate-File-Eraser)
@@ -119,12 +128,13 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
     - [MacOS setup for VirtualBox](https://github.com/CaptainChicky/macos-virtualbox)
     - [Keyboard repurposer](https://github.com/CaptainChicky/sharpkeys)
     - [Windows power tools](https://github.com/CaptainChicky/PowerToys)
+    - [Dynamically generated stats for GitHub readmes](https://github.com/CaptainChicky/github-readme-stats)
     
 5) My other projects:
 - Self-created:
   - [Temporary note-taking app](https://github.com/CaptainChicky/Temporary-Note-taking-App)
 - Forked(will likely not update from the date they are forked):
-Did you even read the name 😂. Why would I fork something and add it here as "my own project"? 😅
+Did you even read the name 😂. Why would I fork something I didn't make and add it here as "my own project"? 😅
   
 6) Regarding .io games :D:
 - Self-created:
