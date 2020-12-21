@@ -49,10 +49,7 @@
 # Full overview as of 12/17/2020
 [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website(under construction).
 
-[Here](https://github.com/CaptainChicky/aops.com-related-code) is a collection of aops.com stuff(unpolished).
-
-Sort later:
-  - [cmd pet](https://github.com/CaptainChicky/cmd-pet)
+[Here](https://github.com/CaptainChicky/CaptainChicky) is the repository you are reading from 😆.
 
 1) Malware and jokeware:
 - Self-created:
@@ -80,11 +77,15 @@ Sort later:
 2) Regarding activation or tampering software:
   - [Removing Adobe Genuine Client](https://github.com/CaptainChicky/Remove-Adobe-Genuine-Client)
   - [Activating Microsoft Products for testing](https://github.com/CaptainChicky/Activate-Microsoft-products-for-testing-in-virtual-machines)
+
+3) Games:
+  - [cmd pet](https://github.com/CaptainChicky/cmd-pet)
   
-3) Tools:
+4) Tools:
 - Self-created:
     - [Setting the PowerShell Execution level](https://github.com/CaptainChicky/Setting-PowerShell-Execution-Level)
     - [Hash retriever](https://github.com/CaptainChicky/Hash-Retriever)
+    - [A collection regarding aops.com(unpolished)](https://github.com/CaptainChicky/aops.com-related-code)
 - Forked(will likely not update from the date they are forked):
     - [KMS emulator](https://github.com/CaptainChicky/py-kms)
     - [Duplicate File Eraser](https://github.com/CaptainChicky/Duplicate-File-Eraser)
@@ -105,10 +106,10 @@ Sort later:
     - [Keyboard repurposer](https://github.com/CaptainChicky/sharpkeys)
     - [Windows power tools](https://github.com/CaptainChicky/PowerToys)
     
-4) My other projects:
+5) My other projects:
   - [Temporary note-taking app](https://github.com/CaptainChicky/Temporary-Note-taking-App)
   
-5) Regarding .io games :D:
+6) Regarding .io games :D:
   - [arras.io](https://github.com/CaptainChicky/arrasio)
   - [obstar.io](https://github.com/CaptainChicky/Obstar)
   - [diep.io bots](https://github.com/CaptainChicky/diep_bot)
@@ -116,14 +117,14 @@ Sort later:
   - [diep.io scripts](https://github.com/CaptainChicky/diep.io-scripts)
   - [C++14 WebSocket server library](https://github.com/CaptainChicky/ws28)
   
-6) Software of notable companies:
+7) Software of notable companies:
   - [qBittorent](https://github.com/CaptainChicky/qBittorrent)
   - [MuseScore](https://github.com/CaptainChicky/MuseScore)
   - [Microsoft DOS Terminal](https://github.com/CaptainChicky/terminal)
   - [Microsoft PowerShell](https://github.com/CaptainChicky/PowerShell)
   - [ATOM text editor](https://github.com/CaptainChicky/atom)
   
-7) Other stuff like scripts, simulations, etc:
+8) Other stuff like scripts, simulations, etc:
   - [.ps1 script collection](https://github.com/CaptainChicky/Script-Sharing)
   - [WebGL fluid simulation](https://github.com/CaptainChicky/WebGL-Fluid-Simulation)
   - [Pdf collections of multiple topics](https://github.com/CaptainChicky/pdfs)
