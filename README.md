@@ -1,10 +1,11 @@
 There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits to my profile so far.
 
 ##### GitHub to-do list
-1) Find the source for the visitor counter(profile-counter.glitch.me)
-2) Make a light theme-compatable readme.md for my userpage.
-3) Make polished releases on my own repos.
-4) Fix all issues. 
+1) Make a light theme-compatable readme.md for my userpage.
+2) Make polished releases on my own repos.
+3) Fix all issues. 
+4) Ø
+5) Ø
 
 ### Hi there! It's me, Chicky 😋!
 - 🛠 I am an ameatur coder. I dabble with Batch, VBScript and PowerShell, along with JavaScript and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
