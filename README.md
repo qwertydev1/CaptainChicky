@@ -2,9 +2,9 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 
 ##### GitHub to-do list
 1) Make a light theme-compatable readme.md for my userpage.
-2) Make polished releases on my own repos.
-3) Fix all issues. 
-4) Ø
+2) Make guestbook like the one on c4cs/.tripod.com.
+3) Make polished releases on my own repos.
+4) Fix all issues. 
 5) Ø
 
 ### Hi there! It's me, Chicky 😋!
