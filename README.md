@@ -1,6 +1,6 @@
 There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits to my profile so far.
 
-##### GitHub to-do list(I can't do much before 2021 lol. busy asf on other things)
+##### GitHub to-do list(I can't do much rn lol. busy asf on other things)
 1) Make a light theme-compatable readme.md for my userpage.
 2) Make guestbook like the one on c4cs.tripod.com.
 3) Make polished releases on my own repos, and fix all issues. 
